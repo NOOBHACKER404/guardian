@@ -1,0 +1,5 @@
+ORG-001|Apex Development Foundation|NGO|VERIFIED|Green|Yangon|2026-04-01|Aid & Development
+ORG-002|Northstar Holdings Group|Corporate|REVIEW REQUIRED|Yellow|Mandalay|2026-03-19|Investment
+ORG-003|BlueRiver Logistics|Corporate|VERIFIED|Green|Yangon|2026-03-27|Logistics
+ORG-004|CivicBridge Network|NGO|MONITOR|Yellow|Nay Pyi Taw|2026-02-28|Civil Society
+ORG-005|Golden Delta Manufacturing|Corporate|HIGH RISK|Red|Mandalay|2026-01-22|Manufacturing
