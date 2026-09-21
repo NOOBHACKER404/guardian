@@ -9,9 +9,13 @@
 3. Push ไป branch `main`
 4. ไปที่ **Settings → Pages**
 5. ที่ **Build and deployment** เลือก **Source: GitHub Actions**
-6. รอ workflow ชื่อ **Deploy GUARDIAN to GitHub Pages** ทำงานเสร็จ
+6. รอ workflow ชื่อ **Deploy Guardian to GitHub Pages** ทำงานเสร็จ
 
 หลังจากนั้นทุกครั้งที่ push เข้า `main` GitHub Actions จะ build และ deploy ให้อัตโนมัติ
+
+เว็บไซต์ที่เผยแพร่แล้ว: https://noobhacker404.github.io/guardian/
+
+เมื่อต้องการอัปเดต data ให้แก้ไฟล์ใน `client/src/data/` จากนั้น commit และ push ไปที่ `main` ระบบจะ deploy เวอร์ชันใหม่ให้อัตโนมัติ
 
 ## Local commands
 
