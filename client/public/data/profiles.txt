@@ -1,0 +1,8 @@
+EMP-B-2026-0012|U Aung Min Khant|Senior Financial Officer|FIN-2023-089|BLACK|Financial fraud & asset seizure|2026-01-10|Finance
+EMP-R-2026-0045|U Zaw Myo Htet|Site Engineer|ENG-2024-112|RED|Workplace harassment|2026-02-04|Engineering
+EMP-Y-2026-0158|Ma Aye Thanda|Digital Marketing Executive|MKT-2024-055|YELLOW|Contractual job abandonment|2026-02-18|Marketing
+EMP-G-2026-0008|Daw Thazin Oo|Operations Manager|GRT-2021-002|GREEN|Verified & highly recommended|2026-03-02|Operations
+EMP-G-2026-0021|Ko Min Thu|Product Manager|PRD-2022-031|GREEN|Verified employment history|2026-03-14|Product
+EMP-Y-2026-0033|Ma Hnin Ei|Procurement Officer|PRC-2023-044|YELLOW|Review required: procurement dispute|2026-03-21|Procurement
+EMP-R-2026-0060|U Nay Lin|Warehouse Supervisor|OPS-2024-118|RED|Repeated compliance violations|2026-03-28|Operations
+EMP-B-2026-0068|U Kyaw Zin|Finance Controller|FIN-2020-077|BLACK|Confirmed financial misconduct|2026-04-02|Finance
